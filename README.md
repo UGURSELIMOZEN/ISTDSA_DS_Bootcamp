@@ -1,6 +1,6 @@
 # ISTDSA_DS_Bootcamp
 
-**This is a 16 Week data science bootcamp program sponsored by Hepsiburada and I have the following curriculum for my bootcamp education ;**
+**This is a 16 Week data science bootcamp program organized by [Istanbul Data Science Academy](https://www.linkedin.com/school/istanbul-data-science-academy/) and  sponsored by [Hepsiburada](https://www.linkedin.com/company/hepsiburada/) and I have the following curriculum for my bootcamp education ;**
 
 **1. Introduction to Data Science Toolkit**
 - Shell - Bash Scripting
