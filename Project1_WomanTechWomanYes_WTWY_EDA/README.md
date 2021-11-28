@@ -2,6 +2,9 @@
 
 ## Project 1: Exploratory Data Analysis (EDA)
 
+**IMPORTANT NOTE : to open project .ipynb notebook please open it with https://nbviewer.org/ by copying following link there :
+ https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project1_WomanTechWomanYes_WTWY_EDA/istdsa-project1.ipynb**
+
 ### Back Story
 
 An email from a potential client:
