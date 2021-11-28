@@ -2,12 +2,12 @@
 
 ## Project 1: Exploratory Data Analysis (EDA)
 
-**IMPORTANT NOTE : 
+**IMPORTANT NOTE** 
 
 **to open Project's notebook please open it with https://nbviewer.org/ by copying following link there :
  https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project1_WomanTechWomanYes_WTWY_EDA/istdsa-project1.ipynb**
  
- **or you can view it with the following link : https://www.kaggle.com/ugurselimozen/istdsa-project1**
+ **or You can view it with the following link : https://www.kaggle.com/ugurselimozen/istdsa-project1**
  
 
 ### Back Story
