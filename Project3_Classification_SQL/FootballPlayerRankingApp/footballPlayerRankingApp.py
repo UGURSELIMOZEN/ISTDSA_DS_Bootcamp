@@ -41,7 +41,7 @@ st.write("""
 
 st.text("")
 
-image = Image.open('mbappe.png')
+image = Image.open('https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project3_Classification_SQL/FootballPlayerRankingApp/mbappe.png')
 st.image(image, use_column_width = True)
 
 st.text("")
