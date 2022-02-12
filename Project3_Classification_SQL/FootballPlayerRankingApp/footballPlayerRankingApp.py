@@ -50,7 +50,7 @@ st.text("")
 
 st.text("")
 
-df = pd.read_csv("Players.csv")
+df = pd.read_csv(r"Players.csv")
 
 abc = sns.histplot(data=df, x="overall_rating")
 
