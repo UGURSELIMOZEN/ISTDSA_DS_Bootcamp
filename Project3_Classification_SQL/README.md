@@ -46,14 +46,6 @@ brainstorming, design, additional data, etc. However, the final projects will be
 
 #### More information:
 
-Data sources for this project are all about options. We can choose from a number of [pre-selected](sql_data_sets.md) data sets. We can also use our own data (either scraped from the web or pulled from api's) or supplement the pre-selected data with some of our own. Either way, we will be honing our database skills by storing data in PostgreSQL and doing some of our analysis there.[^1]
-
-[^1]: If the project does not have a significant SQL component, then additional (intermediate and advanced) [SQL challenges](../../challenges/challenges_questions/09-sql) must be completed.
+Data sources for this project are all about options. We can choose from a number of [pre-selected](sql_data_sets.md) data sets. We can also use our own data (either scraped from the web or pulled from api's) or supplement the pre-selected data with some of our own. Either way, we will be honing our database skills by storing data in PostgreSQL and doing some of our analysis there.
 
 We'll also learn about many supervised learning methods that can be used to predict outcomes for our projects. And we can showcase those results with a flask website or D3 visualization.
-
-## Example Projects:
-- [Predicting Telecom Churn](https://towardsdatascience.com/cutting-the-cord-predicting-customer-churn-for-a-telecom-company-268e65f177a5)
-- [Baseball Pitch Recommendation](https://medium.com/@vszuflita/pitch-recommendation-a-look-into-the-data-science-process-ab15f45c8687)
-- [Major or Minor? Classifying the Mode of a Song](https://www.linkedin.com/pulse/major-minor-classifying-mode-song-alex-smith/)
-- [Ads That Click](https://www.linkedin.com/pulse/ads-click-maragatham-k-n/)
