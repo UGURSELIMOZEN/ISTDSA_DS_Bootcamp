@@ -1,5 +1,7 @@
 ## Project 1: Exploratory Data Analysis (EDA)
 
+**Important Note** : To view project's notebook  , please visit following link ; https://nbviewer.org/github/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project1_WomanTechWomanYes_EDA/istdsa-project1.ipynb
+
 ### Back Story
 
 An email from a potential client:
