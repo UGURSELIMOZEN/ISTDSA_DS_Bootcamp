@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import requests
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
@@ -40,8 +40,8 @@ st.write("""
 """)
 
 st.text("")
-
-image = Image.open('https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project3_Classification_SQL/FootballPlayerRankingApp/mbappe.png')
+mbappe = "https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project3_Classification_SQL/FootballPlayerRankingApp/mbappe.png"
+image = Image.open(requests.get(mbappe, stream=True).raw)
 st.image(image, use_column_width = True)
 
 st.text("")
