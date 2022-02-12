@@ -41,7 +41,11 @@ st.write("""
 
 st.text("")
 mbappe = "https://github.com/UGURSELIMOZEN/ISTDSA_DS_Bootcamp/blob/main/Project3_Classification_SQL/FootballPlayerRankingApp/mbappe.png"
-image = Image.open(requests.get(mbappe, stream=True).raw)
+response = requests.get(mbappe, stream = True)
+with open('mbappe.png', 'wb') as f:
+	f.write(response.content)
+    
+image = Image.open('mbappe.png')
 st.image(image, use_column_width = True)
 
 st.text("")
