@@ -2,7 +2,7 @@
 
 #### ⚡ In this project , developing of  Football Player Ranking Dashboard made with Python Streamlit and deployed with Heroku using pipeline.
 
-</br>
+
 
 #### • Project Objective
    Building Machine Learning model for classification problem to be able to find best talented football players.
