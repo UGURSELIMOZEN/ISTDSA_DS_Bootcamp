@@ -51,10 +51,10 @@
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
 </a>
 <a>
-<img alt="catboost" src="https://img.shields.io/badge/-Ggplot2-00979D?logo=Ggplot2&logoColor=white">
+<img alt="catboost" src="https://img.shields.io/badge/-Ggplot2-00979D?logo=catboost&logoColor=white">
 </a>
 <a>
-<img alt="imblearn" src ="https://img.shields.io/badge/DB2-%23316192.svg?logo=db2&logoColor=white">
+<img alt="imblearn" src ="https://img.shields.io/badge/DB2-%23316192.svg?logo=imblearn&logoColor=white">
 </a>
 
 </p>
