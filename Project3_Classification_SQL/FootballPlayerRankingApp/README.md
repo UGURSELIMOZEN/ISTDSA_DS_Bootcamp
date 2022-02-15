@@ -45,7 +45,7 @@
 <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-%23025E8C.svg?logo=matplotlib&logoColor=white">
 </a>
 <a>
-<img alt="Seaborn" src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white">
+<img alt="Seaborn" src="https://img.shields.io/badge/Plotly-239120?logo=seaborn&logoColor=white">
 </a>
 <a>
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
