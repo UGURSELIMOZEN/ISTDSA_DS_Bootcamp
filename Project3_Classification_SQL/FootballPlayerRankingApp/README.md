@@ -51,7 +51,7 @@
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit_learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
 </a>
 <a>
-<img alt="catboost" src ="https://img.shields.io/badge/Cat%20Boost-CC2927?&logo=ibm%20cloud&logoColor=white">
+<img alt="catboost" src ="https://img.shields.io/badge/CatBoost-CC2927?&logo=ibm%20cloud&logoColor=white">
 <a>
 
 </p>
