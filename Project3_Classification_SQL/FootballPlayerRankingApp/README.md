@@ -13,7 +13,7 @@
    In this project , I used following Python libraries ;
    - pandas  -> exploratory data analysis and feature engineering 
    - seaborn -> data visualization 
-   - scikit-learn -> machine learning building and evaluation
+   - scikit-learn ->  building machine learning model and evaluation
    - streamlit -> creating interactive web app
 
 </br>
