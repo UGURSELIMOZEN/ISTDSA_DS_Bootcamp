@@ -1,6 +1,6 @@
 # FootballPlayerRankingDashboard
 
-#### ⚡ In this project , developing of  Football Player Ranking Dashboard made with Python Streamlit and deployed with Heroku using pipeline.
+#### ⚡ In this project , developing of  Football Player Ranking Dashboard made with Python Streamlit and deployed with Heroku pipeline.
 
 </br>
 
