@@ -2,7 +2,6 @@
 
 #### ⚡ In this project , developing of  Football Player Ranking Dashboard made with Python Streamlit and deployed with Heroku using pipeline.
 
-
 </br>
 
 #### • Project Objective
@@ -16,7 +15,6 @@
    - seaborn -> data visualization 
    - scikit-learn -> machine learning building and evaluation
    - streamlit -> creating interactive web app
-
 
 </br>
 <p>
