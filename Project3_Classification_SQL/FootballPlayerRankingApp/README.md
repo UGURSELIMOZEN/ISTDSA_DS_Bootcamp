@@ -53,6 +53,9 @@
 <a>
 <img alt="catboost" src ="https://img.shields.io/badge/CatBoost-CC2927?&logo=ibm%20cloud&logoColor=white">
 <a>
+<a>
+<img alt="Imblearn" src="https://img.shields.io/badge/-imblearn-%23025E8C.svg?logo=imblearn&logoColor=white">
+</a>
 
 </p>
 
