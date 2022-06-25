@@ -35,12 +35,12 @@ st.write("""
 
 st.text("")
 
-image = Image.open('godfather.png')
+image = Image.open('Project4_NLP_NoSQL/MovieSentimentAnalysisApp/godfather.png')
 st.image(image, use_column_width = True)
 
 st.text("")
 
-df = pd.read_csv("movieReviews.csv")
+df = pd.read_csv("Project4_NLP_NoSQL/MovieSentimentAnalysisApp/movieReviews.csv")
 
 fig1 = px.histogram(df, x="rating", height= 550, width=900)
 
