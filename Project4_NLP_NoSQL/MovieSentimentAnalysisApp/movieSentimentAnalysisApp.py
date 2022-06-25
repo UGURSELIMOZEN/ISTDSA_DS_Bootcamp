@@ -35,7 +35,7 @@ st.write("""
 
 st.text("")
 
-image = Image.open('godfather.jpg')
+image = Image.open('godfather.png')
 st.image(image, use_column_width = True)
 
 st.text("")
